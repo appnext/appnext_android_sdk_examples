@@ -19,7 +19,7 @@ This GitHub page will present examples of Appnext Android SDK ad units; Intersti
 Please reffer to Appnext Developers Hub, [https://developers.appnext.com](https://developers.appnext.com), for full and official documentation on how to integrate the native ads ad unit.
 
 ## Join us now! ##
-Use the Native Ads SDK and start generating revenue. Join now!
+Use the Appnext Android SDK and start generating revenue. Join now!
 
 For more SDK & Integration information & Support, please refer to [http://www.appnext.com](https://www.appnext.com)  or contact the Appnext support team at Support@appnext.com
 
