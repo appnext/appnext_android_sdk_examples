@@ -106,7 +106,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 ads:bannerSize="BANNER"
-                ads:placementId="a37d34db-5001-481a-abdb-afb529123773"/>
+                ads:placementId="a48ac80e-7c52-402d-b061-b7d6ca400823"/>
 
             <com.appnext.banners.BannerView
                 xmlns:ads="http://schemas.android.com/apk/res-auto"
